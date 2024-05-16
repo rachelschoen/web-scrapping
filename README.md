@@ -1,5 +1,9 @@
 # web-scrapping
 
+## Background
+
+You’re now ready to take on a full web-scraping and data analysis project. You’ve learned to identify HTML elements on a page, identify their id and class attributes, and use this knowledge to extract information via both automated browsing with Splinter and HTML parsing with Beautiful Soup. You’ve also learned to scrape various types of information. These include HTML tables and recurring elements, like multiple news articles on a webpage.
+
 **Step 1:** Visit the Website. Use automated browsing to visit the Mars news site. Inspect the page to identify which elements to scrape.
 
 **Step 2:** Scrape the Website. Create a Beautiful Soup object and use it to extract text elements from the website.
